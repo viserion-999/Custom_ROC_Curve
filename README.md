@@ -9,7 +9,7 @@ STEPS TO GENERATE ROC CURVE:
 Any other format will not be accepted.
 Then choose options using the check boxes for your uploaded csv(header,seperators etc).
 You can see the uploaded csv above. (head or entire dataframe)
-ROC Curve for the uploaded test vs predicted will appear in this box here.
+ROC Curve for the uploaded test vs predicted will appear in the box in the app.
 ROC Curve dynamically changes as you adjust/correct/change your csv file.
 
 SPECIALITY:
